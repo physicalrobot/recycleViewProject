@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="pokemon_full_txt">
+        <item>Charizard</item>
+        <item>Met</item>
+        <item>Mew</item>
+        <item>Pikachu</item>
+        <item>Pigey</item>
+        <item>Raichu</item>
+        <item>pichu</item>
+        <item>Jiggly Puff</item>
+        <item>evee</item>
+        <item>Charmander</item>
+
+    </string-array>
+
+
+    <string-array name="pokemon_three_letter_txt">
+        <item>Cha</item>
+        <item>Met</item>
+        <item>Mew</item>
+        <item>Pik</item>
+        <item>Pig</item>
+        <item>Rai</item>
+        <item>pic</item>
+        <item>Jig</item>
+        <item>eve</item>
+        <item>Cha</item>
+
+    </string-array>
+
+
+    <string-array name="pokemon_one_letter_txt">
+        <item>C</item>
+        <item>M</item>
+        <item>M</item>
+        <item>P</item>
+        <item>P</item>
+        <item>R</item>
+        <item>p</item>
+        <item>J</item>
+        <item>e</item>
+        <item>C</item>
+
+    </string-array>
+
+
+
+</resources>
